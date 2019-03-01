@@ -1,10 +1,10 @@
 <scheme name="Spacemacs Light Bold" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-03-02T03:42:36</property>
-    <property name="ide">PyCharmCore</property>
-    <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-03-02T03:42:43</property>
+    <property name="created">2019-03-02T03:58:36</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.3.0.20</property>
+    <property name="modified">2019-03-02T03:59:38</property>
     <property name="originalScheme">Spacemacs Light Bold</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -90,6 +90,7 @@
         <option name="FOREGROUND" value="2d9574" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="JS$GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="9966b8" />
